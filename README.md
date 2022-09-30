@@ -21,4 +21,4 @@ Href=
 "https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
-![image](https://user-images.githubusercontent.com/114782183/193368388-0d029ba9-724e-4a06-a317-73b1176a8f2a.png)
+
