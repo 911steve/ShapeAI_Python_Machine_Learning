@@ -14,7 +14,7 @@ I enjoyed these 7 days, you can as well. To register gor next free 7 days bootca
 Or follow SHAPEAI on"
 <li><a href=
 "https://in.linkedin.com/company/shapeai">LinkedIn</a>
-<<li><a href=
+<li><a href=
 "https://www.instagram.com/shape.ai/?hle=en">Instagram</a>
 <li><a
 Href=
